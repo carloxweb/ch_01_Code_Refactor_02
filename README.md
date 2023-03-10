@@ -6,9 +6,7 @@
 
 Each service description should be short and clear with images resembling its use
 
-#images 
-list and sizes
+#Accesibility 
 
-#user interface 
-
+Alt breakpoints 
  
